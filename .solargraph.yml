@@ -1,6 +1,7 @@
 ---
 include:
 - "**/*.rb"
+- "matrix"
 exclude:
 - test/**/*
 - vendor/**/*
